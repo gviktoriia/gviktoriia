@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Viktoriia
-- 🌱 I'm writing my projects on Java and Python
 - 📫 How to reach me Telegram: @gvvvvm
 
 <!---
