@@ -38,10 +38,6 @@
 ---
 
 ### :fire: My Stats :
-<div id="stats" align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gviktoriia&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
 
-<div id="langs" align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gviktoriia&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
