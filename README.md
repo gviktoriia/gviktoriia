@@ -14,6 +14,9 @@
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=gviktoriia&style=flat-square&color=blue" alt=""/>
+
+
 - Hi, I’m Viktoriia
 - I am looking for a position of frontend developer
 - Write me on my e-mail viktoriia.hvozdak@gmail.com
