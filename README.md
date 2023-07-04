@@ -17,9 +17,14 @@
   </a>
 </div>
 
-<div id="gif" align="center>
-  <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="100"/>
+<div id="views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=gviktoriia&style=flat-square&color=blue" alt=""/>
 </div>
-
+---
 <h1>Hey, I'm Viktoriia Hvozdak</h1>
 <p>I'm looking for a position of a frontend developer.</p>
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
