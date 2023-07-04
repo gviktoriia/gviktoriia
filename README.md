@@ -22,4 +22,4 @@
 </div>
 
 <h1>Hey, I'm Viktoriia Hvozdak</h1>
-<h2>I'm looking for a position of a frontend developer.</h2>
+<p>I'm looking for a position of a frontend developer.</p>
