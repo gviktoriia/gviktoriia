@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="400"/>
 </div>
 
 <div id="badges" align="center">
@@ -15,10 +15,6 @@
   <a href="viktoriia.hvozdak@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-</div>
-
-<div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=gviktoriia&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id="gif" align="center>
