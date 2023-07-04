@@ -21,7 +21,9 @@
   <img src="https://komarev.com/ghpvc/?username=gviktoriia&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1>I'm looking for a position of a frontend developer.</h1>
+<div id="position" align="center">
+  <h1>I'm looking for a position of a frontend developer.</h1>
+</div>
 
 ---
 
