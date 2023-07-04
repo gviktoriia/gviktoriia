@@ -22,7 +22,7 @@
 </div>
 
 <div id="position" align="center">
-  <h1>I'm looking for a position of a frontend developer.</h1>
+  <h1>Frontend developer</h1>
 </div>
 
 ---
