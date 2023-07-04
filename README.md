@@ -14,8 +14,9 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=gviktoriia&style=flat-square&color=blue" alt=""/>
-
+<div id="views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=gviktoriia&style=flat-square&color=red" alt=""/>
+</div>
 
 - Hi, I’m Viktoriia
 - I am looking for a position of frontend developer
