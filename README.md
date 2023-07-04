@@ -22,7 +22,7 @@
 </div>
 
 <div id="gif" align="center>
-  <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="300px"/>
+  <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width=""/>
 </div>
 
 - Hi, I’m Viktoriia
