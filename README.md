@@ -21,6 +21,5 @@
   <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="100"/>
 </div>
 
-- Hi, I’m Viktoriia
-- I am looking for a position of frontend developer
-- Write me on my e-mail viktoriia.hvozdak@gmail.com
+<h1>Hey, I'm Viktoriia Hvozdak</h1>
+<h2>I'm looking for a position of a frontend developer.</h2>
