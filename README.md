@@ -19,7 +19,7 @@
 </div>
 
 <div id="position" align="center">
-  <h1>Frontend Developer</h1>
+  <h1>Full-time Racoon 🦝</h1>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
